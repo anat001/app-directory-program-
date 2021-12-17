@@ -140,8 +140,7 @@ int main ()
             cout << "\n\n";
         } else {
             cout << "Application not found.\n";
-        }
-       
+        }    
    
     }
        
